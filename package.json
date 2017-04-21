@@ -1,0 +1,21 @@
+{
+  "name": "flashcardgen",
+  "version": "1.0.0",
+  "description": "flash card maker functions",
+  "main": "cloze.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rebelmonkey3/Flashcard-Generator.git"
+  },
+  "author": "Blake",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rebelmonkey3/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/rebelmonkey3/Flashcard-Generator#readme"
+}
